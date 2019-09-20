@@ -2,7 +2,7 @@
 PL Converter for Windows
 
 ## Download
-here![https://tawngphait.github.io]
+Please download PLConverter from [here](https://github.com/TawngPhaiT/PLConverter-for-Windows/files/3636761/PLConverter.zip).
 
 ## Demo Imave
 ![Demo1](PL1.jpg?raw=true "Demo Web View")
@@ -11,5 +11,3 @@ here![https://tawngphait.github.io]
 ![Demo4](PL4.jpg?raw=true "Demo Web View")
 ![Demo5](PL5.jpg?raw=true "Demo Web View")
 ![Demo6](PL6.JPG?raw=true "Demo Web View")
-
-
